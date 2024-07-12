@@ -1,7 +1,10 @@
-# Envify nconf
+# THIS REPO IS ARCHIVED!!!
+New repository: https://github.com/guidion-digital/envify-nconf
+
+## Envify nconf
 A ready to use loading to the process.env for nconf.
 
-## Installation
+### Installation
 
 ```bash
 npm install --save @gdn/envify-nconf
@@ -30,7 +33,7 @@ The .load function has 2 parameters:
 2. branch: string | Optional | default: checks env vars for Travis and CircleCI branches
 
 
-## Hierarchy and settings
+### Hierarchy and settings
 The following settings will be loaded in the following hierarchy:
 1. args
 2. env
